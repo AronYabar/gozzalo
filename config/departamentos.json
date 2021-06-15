@@ -1,0 +1,106 @@
+[
+    {
+      "DeparCodi": "1",
+      "DeparNom": "AMAZONAS"
+    },
+    {
+      "DeparCodi": "2",
+      "DeparNom": "ANCASH"
+    },
+    {
+      "DeparCodi": "3",
+      "DeparNom": "APURIMAC"
+    },
+    {
+      "DeparCodi": "4",
+      "DeparNom": "AREQUIPA"
+    },
+    {
+      "DeparCodi": "5",
+      "DeparNom": "AYACUCHO"
+    },
+    {
+      "DeparCodi": "6",
+      "DeparNom": "CAJAMARCA"
+    },
+    {
+      "DeparCodi": "7",
+      "DeparNom": "CALLAO"
+    },
+    {
+      "DeparCodi": "8",
+      "DeparNom": "CUSCO"
+    },
+    {
+      "DeparCodi": "9",
+      "DeparNom": "HUANCAVELICA"
+    },
+    {
+      "DeparCodi": "10",
+      "DeparNom": "HUANUCO"
+    },
+    {
+      "DeparCodi": "11",
+      "DeparNom": "ICA"
+    },
+    {
+      "DeparCodi": "12",
+      "DeparNom": "JUNIN"
+    },
+    {
+      "DeparCodi": "13",
+      "DeparNom": "LA LIBERTAD"
+    },
+    {
+      "DeparCodi": "14",
+      "DeparNom": "LAMBAYEQUE"
+    },
+    {
+      "DeparCodi": "15",
+      "DeparNom": "LIMA"
+    },
+    {
+      "DeparCodi": "16",
+      "DeparNom": "LORETO "
+    },
+    {
+      "DeparCodi": "17",
+      "DeparNom": "MADRE DE DIOS"
+    },
+    {
+      "DeparCodi": "18",
+      "DeparNom": "MOQUEGUA"
+    },
+    {
+      "DeparCodi": "19",
+      "DeparNom": "PASCO"
+    },
+    {
+      "DeparCodi": "20",
+      "DeparNom": "PIURA"
+    },
+    {
+      "DeparCodi": "21",
+      "DeparNom": "PUNO"
+    },
+    {
+      "DeparCodi": "22",
+      "DeparNom": "SAN MARTIN"
+    },
+    {
+      "DeparCodi": "23",
+      "DeparNom": "TACNA"
+    },
+    {
+      "DeparCodi": "24",
+      "DeparNom": "TUMBES"
+    },
+    {
+      "DeparCodi": "25",
+      "DeparNom": "UCAYALI"
+    },
+    {
+      "DeparCodi": "26",
+      "DeparNom": "EXTRANJERO"
+    }
+  ]

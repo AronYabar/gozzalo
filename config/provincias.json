@@ -1,0 +1,977 @@
+[
+      {
+        "ProvCodi": "1",
+        "ProvNom": "CHACHAPOYAS",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "2",
+        "ProvNom": "BAGUA",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "3",
+        "ProvNom": "BONGARA",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "4",
+        "ProvNom": "CONDORCANQUI",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "5",
+        "ProvNom": "LUYA",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "6",
+        "ProvNom": "RODRIGUEZ DE MENDO",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "7",
+        "ProvNom": "UTCUBAMBA",
+        "DeparCodi": 1
+      },
+      {
+        "ProvCodi": "8",
+        "ProvNom": "HUARAZ",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "9",
+        "ProvNom": "AIJA",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "10",
+        "ProvNom": "ANTONIO RAYMONDI",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "11",
+        "ProvNom": "ASUNCION",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "12",
+        "ProvNom": "BOLOGNESI",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "13",
+        "ProvNom": "CARHUAZ",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "14",
+        "ProvNom": "CARLOS F. FITZCARRAL",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "15",
+        "ProvNom": "CASMA",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "16",
+        "ProvNom": "CORONGO",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "17",
+        "ProvNom": "HUARI",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "18",
+        "ProvNom": "HUARMEY",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "19",
+        "ProvNom": "HUAYLAS",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "20",
+        "ProvNom": "MARISCAL LUZURIAGA",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "21",
+        "ProvNom": "OCROS",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "22",
+        "ProvNom": "PALLASCA",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "23",
+        "ProvNom": "POMABAMBA",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "24",
+        "ProvNom": "RECUAY",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "25",
+        "ProvNom": "SANTA",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "26",
+        "ProvNom": "SIHUAS",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "27",
+        "ProvNom": "YUNGAY",
+        "DeparCodi": 2
+      },
+      {
+        "ProvCodi": "28",
+        "ProvNom": "ABANCAY",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "29",
+        "ProvNom": "ANDAHUAYLAS",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "30",
+        "ProvNom": "ANTABAMBA",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "31",
+        "ProvNom": "AYMARAES",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "32",
+        "ProvNom": "COTABAMBAS",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "33",
+        "ProvNom": "CHINCHEROS",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "34",
+        "ProvNom": "GRAU",
+        "DeparCodi": 3
+      },
+      {
+        "ProvCodi": "35",
+        "ProvNom": "AREQUIPA",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "36",
+        "ProvNom": "CAMANA",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "37",
+        "ProvNom": "CARAVELI",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "38",
+        "ProvNom": "CASTILLA",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "39",
+        "ProvNom": "CAYLLOMA",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "40",
+        "ProvNom": "CONDESUYOS",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "41",
+        "ProvNom": "ISLAY",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "42",
+        "ProvNom": "LA UNION",
+        "DeparCodi": 4
+      },
+      {
+        "ProvCodi": "43",
+        "ProvNom": "HUAMANGA",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "44",
+        "ProvNom": "CANGALLO",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "45",
+        "ProvNom": "HUANCA SANCOS",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "46",
+        "ProvNom": "HUANTA",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "47",
+        "ProvNom": "LA MAR",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "48",
+        "ProvNom": "LUCANAS",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "49",
+        "ProvNom": "PARINACOCHAS",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "50",
+        "ProvNom": "PAUCAR DEL SARA SARA",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "51",
+        "ProvNom": "SUCRE",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "52",
+        "ProvNom": "VICTOR FAJARDO",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "53",
+        "ProvNom": "VILCAS HUAMAN",
+        "DeparCodi": 5
+      },
+      {
+        "ProvCodi": "54",
+        "ProvNom": "CAJAMARCA",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "55",
+        "ProvNom": "CAJABAMBA",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "56",
+        "ProvNom": "CELENDIN",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "57",
+        "ProvNom": "CHOTA",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "58",
+        "ProvNom": "CONTUMAZA",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "59",
+        "ProvNom": "CUTERVO",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "60",
+        "ProvNom": "HUALGAYOC",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "61",
+        "ProvNom": "JAEN",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "62",
+        "ProvNom": "SAN IGNACIO",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "63",
+        "ProvNom": "SAN MARCOS",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "64",
+        "ProvNom": "SAN MIGUEL",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "65",
+        "ProvNom": "SAN PABLO",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "66",
+        "ProvNom": "SANTA CRUZ",
+        "DeparCodi": 6
+      },
+      {
+        "ProvCodi": "67",
+        "ProvNom": "CALLAO",
+        "DeparCodi": 7
+      },
+      {
+        "ProvCodi": "68",
+        "ProvNom": "CUSCO",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "69",
+        "ProvNom": "ACOMAYO",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "70",
+        "ProvNom": "ANTA",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "71",
+        "ProvNom": "CALCA",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "72",
+        "ProvNom": "CANAS",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "73",
+        "ProvNom": "CANCHIS",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "74",
+        "ProvNom": "CHUMBIVILCAS",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "75",
+        "ProvNom": "ESPINAR",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "76",
+        "ProvNom": "LA CONVENCION",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "77",
+        "ProvNom": "PARURO",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "78",
+        "ProvNom": "PAUCARTAMBO",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "79",
+        "ProvNom": "QUISPICANCHI",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "80",
+        "ProvNom": "URUBAMBA",
+        "DeparCodi": 8
+      },
+      {
+        "ProvCodi": "81",
+        "ProvNom": "HUANCAVELICA",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "82",
+        "ProvNom": "ACOBAMBA",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "83",
+        "ProvNom": "ANGARAES",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "84",
+        "ProvNom": "CASTROVIRREYNA",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "85",
+        "ProvNom": "CHURCAMPA",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "86",
+        "ProvNom": "HUAYTARA",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "87",
+        "ProvNom": "TAYACAJA",
+        "DeparCodi": 9
+      },
+      {
+        "ProvCodi": "88",
+        "ProvNom": "HUANUCO",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "89",
+        "ProvNom": "AMBO",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "90",
+        "ProvNom": "DOS DE MAYO",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "91",
+        "ProvNom": "HUACAYBAMBA",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "92",
+        "ProvNom": "HUAMALIES",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "93",
+        "ProvNom": "LEONCIO PRADO",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "94",
+        "ProvNom": "MARAÑON",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "95",
+        "ProvNom": "PACHITEA",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "96",
+        "ProvNom": "PUERTO INCA",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "97",
+        "ProvNom": "LAURICOCHA",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "98",
+        "ProvNom": "YAROWILCA",
+        "DeparCodi": 10
+      },
+      {
+        "ProvCodi": "99",
+        "ProvNom": "ICA",
+        "DeparCodi": 11
+      },
+      {
+        "ProvCodi": "100",
+        "ProvNom": "CHINCHA",
+        "DeparCodi": 11
+      },
+      {
+        "ProvCodi": "101",
+        "ProvNom": "NAZCA",
+        "DeparCodi": 11
+      },
+      {
+        "ProvCodi": "102",
+        "ProvNom": "PALPA",
+        "DeparCodi": 11
+      },
+      {
+        "ProvCodi": "103",
+        "ProvNom": "PISCO",
+        "DeparCodi": 11
+      },
+      {
+        "ProvCodi": "104",
+        "ProvNom": "HUANCAYO",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "105",
+        "ProvNom": "CONCEPCION",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "106",
+        "ProvNom": "CHANCHAMAYO",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "107",
+        "ProvNom": "JAUJA",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "108",
+        "ProvNom": "JUNIN",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "109",
+        "ProvNom": "SATIPO",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "110",
+        "ProvNom": "TARMA",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "111",
+        "ProvNom": "YAULI",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "112",
+        "ProvNom": "CHUPACA",
+        "DeparCodi": 12
+      },
+      {
+        "ProvCodi": "113",
+        "ProvNom": "TRUJILLO",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "114",
+        "ProvNom": "ASCOPE",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "115",
+        "ProvNom": "BOLIVAR",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "116",
+        "ProvNom": "CHEPEN",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "117",
+        "ProvNom": "JULCAN",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "118",
+        "ProvNom": "OTUZCO",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "119",
+        "ProvNom": "PACASMAYO",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "120",
+        "ProvNom": "PATAZ",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "121",
+        "ProvNom": "SANCHEZ CARRION",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "122",
+        "ProvNom": "SANTIAGO DE CHUCO",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "123",
+        "ProvNom": "GRAN CHIMU",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "124",
+        "ProvNom": "VIRU",
+        "DeparCodi": 13
+      },
+      {
+        "ProvCodi": "125",
+        "ProvNom": "CHICLAYO",
+        "DeparCodi": 14
+      },
+      {
+        "ProvCodi": "126",
+        "ProvNom": "FERREÑAFE",
+        "DeparCodi": 14
+      },
+      {
+        "ProvCodi": "127",
+        "ProvNom": "LAMBAYEQUE",
+        "DeparCodi": 14
+      },
+      {
+        "ProvCodi": "128",
+        "ProvNom": "LIMA",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "129",
+        "ProvNom": "BARRANCA",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "130",
+        "ProvNom": "CAJATAMBO",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "131",
+        "ProvNom": "CANTA",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "132",
+        "ProvNom": "CAÑETE",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "133",
+        "ProvNom": "HUARAL",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "134",
+        "ProvNom": "HUAROCHIRI",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "135",
+        "ProvNom": "HUAURA",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "136",
+        "ProvNom": "OYON",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "137",
+        "ProvNom": "YAUYOS",
+        "DeparCodi": 15
+      },
+      {
+        "ProvCodi": "138",
+        "ProvNom": "MAYNAS",
+        "DeparCodi": 16
+      },
+      {
+        "ProvCodi": "139",
+        "ProvNom": "ALTO AMAZONAS",
+        "DeparCodi": 16
+      },
+      {
+        "ProvCodi": "140",
+        "ProvNom": "LORETO",
+        "DeparCodi": 16
+      },
+      {
+        "ProvCodi": "141",
+        "ProvNom": "MARISCAL RAMON CASTI",
+        "DeparCodi": 16
+      },
+      {
+        "ProvCodi": "142",
+        "ProvNom": "REQUENA",
+        "DeparCodi": 16
+      },
+      {
+        "ProvCodi": "143",
+        "ProvNom": "UCAYALI",
+        "DeparCodi": 16
+      },
+      {
+        "ProvCodi": "144",
+        "ProvNom": "TAMBOPATA",
+        "DeparCodi": 17
+      },
+      {
+        "ProvCodi": "145",
+        "ProvNom": "MANU",
+        "DeparCodi": 17
+      },
+      {
+        "ProvCodi": "146",
+        "ProvNom": "TAHUAMANU",
+        "DeparCodi": 17
+      },
+      {
+        "ProvCodi": "147",
+        "ProvNom": "MARISCAL NIETO",
+        "DeparCodi": 18
+      },
+      {
+        "ProvCodi": "148",
+        "ProvNom": "GENERAL SANCHEZ CERR",
+        "DeparCodi": 18
+      },
+      {
+        "ProvCodi": "149",
+        "ProvNom": "ILO",
+        "DeparCodi": 18
+      },
+      {
+        "ProvCodi": "150",
+        "ProvNom": "PASCO",
+        "DeparCodi": 19
+      },
+      {
+        "ProvCodi": "151",
+        "ProvNom": "DANIEL ALCIDES CARRI",
+        "DeparCodi": 19
+      },
+      {
+        "ProvCodi": "152",
+        "ProvNom": "OXAPAMPA",
+        "DeparCodi": 19
+      },
+      {
+        "ProvCodi": "153",
+        "ProvNom": "PIURA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "154",
+        "ProvNom": "AYABACA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "155",
+        "ProvNom": "HUANCABAMBA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "156",
+        "ProvNom": "MORROPON",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "157",
+        "ProvNom": "PAITA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "158",
+        "ProvNom": "SULLANA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "159",
+        "ProvNom": "TALARA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "160",
+        "ProvNom": "SECHURA",
+        "DeparCodi": 20
+      },
+      {
+        "ProvCodi": "161",
+        "ProvNom": "PUNO",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "162",
+        "ProvNom": "AZANGARO",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "163",
+        "ProvNom": "CARABAYA",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "164",
+        "ProvNom": "CHUCUITO",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "165",
+        "ProvNom": "EL COLLAO",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "166",
+        "ProvNom": "HUANCANE",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "167",
+        "ProvNom": "LAMPA",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "168",
+        "ProvNom": "MELGAR",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "169",
+        "ProvNom": "MOHO",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "170",
+        "ProvNom": "SAN ANTONIO DE PUTIN",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "171",
+        "ProvNom": "SAN ROMAN",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "172",
+        "ProvNom": "SANDIA",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "173",
+        "ProvNom": "YUNGUYO",
+        "DeparCodi": 21
+      },
+      {
+        "ProvCodi": "174",
+        "ProvNom": "MOYOBAMBA",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "175",
+        "ProvNom": "BELLAVISTA",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "176",
+        "ProvNom": "EL DORADO",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "177",
+        "ProvNom": "HUALLAGA",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "178",
+        "ProvNom": "LAMAS",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "179",
+        "ProvNom": "MARISCAL CACERES",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "180",
+        "ProvNom": "PICOTA",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "181",
+        "ProvNom": "RIOJA",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "182",
+        "ProvNom": "SAN MARTIN",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "183",
+        "ProvNom": "TOCACHE",
+        "DeparCodi": 22
+      },
+      {
+        "ProvCodi": "184",
+        "ProvNom": "TACNA",
+        "DeparCodi": 23
+      },
+      {
+        "ProvCodi": "185",
+        "ProvNom": "CANDARAVE",
+        "DeparCodi": 23
+      },
+      {
+        "ProvCodi": "186",
+        "ProvNom": "JORGE BASADRE",
+        "DeparCodi": 23
+      },
+      {
+        "ProvCodi": "187",
+        "ProvNom": "TARATA",
+        "DeparCodi": 23
+      },
+      {
+        "ProvCodi": "188",
+        "ProvNom": "TUMBES",
+        "DeparCodi": 24
+      },
+      {
+        "ProvCodi": "189",
+        "ProvNom": "CONTRALMIRANTE VILLA",
+        "DeparCodi": 24
+      },
+      {
+        "ProvCodi": "190",
+        "ProvNom": "ZARUMILLA",
+        "DeparCodi": 24
+      },
+      {
+        "ProvCodi": "191",
+        "ProvNom": "CORONEL PORTILLO",
+        "DeparCodi": 25
+      },
+      {
+        "ProvCodi": "192",
+        "ProvNom": "ATALAYA",
+        "DeparCodi": 25
+      },
+      {
+        "ProvCodi": "193",
+        "ProvNom": "PADRE ABAD",
+        "DeparCodi": 25
+      },
+      {
+        "ProvCodi": "194",
+        "ProvNom": "PURUS",
+        "DeparCodi": 25
+      },
+      {
+        "ProvCodi": "195",
+        "ProvNom": "EXTRANJERO",
+        "DeparCodi": 26
+      }
+    ]

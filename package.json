@@ -1,0 +1,44 @@
+{
+  "name": "gozzalo-backend",
+  "version": "1.0.0",
+  "description": "Logica del Sistema de Gozzalo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "gozzalo",
+    "android",
+    "iOs"
+  ],
+  "author": "Jose Jollja",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "aws-sdk": "^2.825.0",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.23.0",
+    "deg2rad": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "graphql-subscriptions": "^1.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.13",
+    "mongoose-paginate-v2": "^1.3.12",
+    "rad2deg": "^1.0.0",
+    "request": "^2.88.2",
+    "slug": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "nodemon": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/jose.jollja/gozzalo.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/jose.jollja/gozzalo/issues"
+  },
+  "homepage": "https://gitlab.com/jose.jollja/gozzalo#readme"
+}
